@@ -11,10 +11,17 @@
             "id": "3cd60b67d5f8c1f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "canvas",
+              "state": {
+                "file": "dev/desenvolvimento_web_storm.canvas",
+                "viewState": {
+                  "x": -2310.252620545073,
+                  "y": -825.56928721174,
+                  "zoom": -2.123446871004385
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "desenvolvimento_web_storm"
             }
           }
         ],
@@ -188,16 +195,15 @@
   },
   "active": "3cd60b67d5f8c1f1",
   "lastOpenFiles": [
-    "dev1/desenvolvimento_web_storm.canvas",
     "dev/docs/schema_example.png",
+    "dev/desenvolvimento_web_storm.canvas",
+    "dev1/desenvolvimento_web_storm.canvas",
     "dev/docs/postman_example.png",
-    "dev/docs/model_example.png",
     "dev/docs/indciamento_enpoint.png",
     "dev/docs/header_example.png",
     "dev/docs/enpoint_example.png",
     "dev/docs/desenvolvimento_web_doc.md",
     "dev/docs",
-    "dev/desenvolvimento_web_storm.canvas",
     "dev",
     "dev1/docs/schema_example.png",
     "dev1/docs/model_example.png",
