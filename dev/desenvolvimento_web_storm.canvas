@@ -23,7 +23,7 @@
 		{"id":"c3d82324e5b5d630","type":"text","text":"#### **CLIENTE (NAVEGADOR/POSTMAN)**\n","x":-3038,"y":-2691,"width":428,"height":50,"color":"4"},
 		{"id":"149774dd2f0ad7b0","type":"text","text":"#### **SERVIDOR (API)**","x":-2949,"y":-2558,"width":250,"height":50,"color":"4"},
 		{"id":"154ac0c10e59179f","type":"text","text":"#### **RESPOSTA HTTP**","x":-2949,"y":-2298,"width":250,"height":50,"color":"4"},
-		{"id":"cf84d8f156ff270e","type":"file","file":"dev/enpoint_example.png","x":-2839,"y":-157,"width":640,"height":697},
+		{"id":"cf84d8f156ff270e","type":"file","file":"Obsidian Vault/dev/docs/enpoint_example.png","x":-2839,"y":-157,"width":640,"height":697},
 		{"id":"11ae3dcb6203db6f","type":"text","text":"#### **BANCO DE DADOS (POSTGRES)**","x":-2964,"y":-2440,"width":280,"height":86,"color":"4"},
 		{"id":"32f83dfedcd491e4","type":"text","text":"#### **DOMONIO DB**","x":-2609,"y":-2298,"width":220,"height":50,"color":"4"},
 		{"id":"fffcf8a8d7080b59","type":"text","text":"#### **SCRIPT**","x":-2571,"y":-2423,"width":145,"height":50,"color":"4"},
