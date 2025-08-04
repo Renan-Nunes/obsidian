@@ -13,19 +13,32 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "dev/desenvolvimento_web_storm.canvas",
+                "file": "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
                 "viewState": {
-                  "x": -2310.252620545073,
-                  "y": -825.56928721174,
+                  "x": -3051,
+                  "y": -873.5,
                   "zoom": -2.123446871004385
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "desenvolvimento_web_storm"
             }
+          },
+          {
+            "id": "fbc284a1e309b478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "desenvolvimento_web_doc"
+            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,74 +106,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ec31e52d76b03e6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dev/desenvolvimento_web_storm.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para desenvolvimento_web_storm"
-            }
-          },
-          {
-            "id": "c93c9115523165a7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "dev/desenvolvimento_web_storm.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para desenvolvimento_web_storm"
-            }
-          },
-          {
-            "id": "bf2086180a61173f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "791bc0e3556e451c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "dev/desenvolvimento_web_storm.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de desenvolvimento_web_storm"
-            }
-          },
-          {
             "id": "db6a6ac80cd443c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -168,19 +120,20 @@
           {
             "id": "62035822aebf2cfd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "pinned": true,
+              "icon": "history",
+              "title": "History"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +148,16 @@
   },
   "active": "3cd60b67d5f8c1f1",
   "lastOpenFiles": [
-    "dev/docs/schema_example.png",
-    "dev/desenvolvimento_web_storm.canvas",
+    "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_doc.md",
+    "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
+    "Sem título.canvas",
+    "dev/docs_desenvolvimento_web_storm/schema_example.png",
     "dev1/desenvolvimento_web_storm.canvas",
-    "dev/docs/postman_example.png",
-    "dev/docs/indciamento_enpoint.png",
-    "dev/docs/header_example.png",
-    "dev/docs/enpoint_example.png",
-    "dev/docs/desenvolvimento_web_doc.md",
-    "dev/docs",
+    "dev/docs_desenvolvimento_web_storm/postman_example.png",
+    "dev/docs_desenvolvimento_web_storm/indciamento_enpoint.png",
+    "dev/docs_desenvolvimento_web_storm/header_example.png",
+    "dev/docs_desenvolvimento_web_storm/enpoint_example.png",
+    "dev/docs_desenvolvimento_web_storm",
     "dev",
     "dev1/docs/schema_example.png",
     "dev1/docs/model_example.png",
@@ -219,7 +173,6 @@
     "dev/Sem título",
     "README.md",
     "dev.rar",
-    "Sem título.canvas",
     "2025-07-24.md",
     "dev 1/desenvolvimento_web_storm.canvas",
     "dev 1/desenvolvimento_web_doc.md",
