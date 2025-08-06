@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiAccessibility",
+      "LiAlarmClockCheck",
+      "LiAperture",
+      "LiAnchor"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,16 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "dev/daily": "LiAlarmClockCheck",
+  "dev/daily/task's.md": "LiAccessibility",
+  "dev/daily/notes": "LiAlarmClockCheck",
+  "dev/desenvolvimento_web": "LiAnchor",
+  "dev/desenvolvimento_web/images": "LiAperture",
+  "dev/desenvolvimento_web/docs": "LiAsterisk",
+  "dev/desenvolvimento_web/docs/design_patterns_doc.md": "LiAsteriskSquare",
+  "dev/desenvolvimento_web/docs/desenvolvimento_web_doc.md": "LiAsterisk",
+  "dev/desenvolvimento_web/docs/architecture_patterns_doc.md": "LiAsteriskSquare",
+  "dev/desenvolvimento_web/desenvolvimento_web.canvas": "LiAnchor",
+  "dev/COMANDS UTILS": "LiArchive"
 }

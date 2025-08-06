@@ -11,20 +11,17 @@
             "id": "dec723cec399af94",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "dev/daily/task's.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "dev/desenvolvimento_web/desenvolvimento_web.canvas",
+                "viewState": {
+                  "x": -2271.8105802989285,
+                  "y": -1986.6037735849054,
+                  "zoom": -1.5615861626317855
                 }
               },
-              "icon": "lucide-trello",
-              "title": "task's"
+              "icon": "lucide-layout-dashboard",
+              "title": "desenvolvimento_web"
             }
           }
         ],
@@ -85,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 479.5
   },
   "right": {
     "id": "480ec9f7e54a9792",
@@ -202,46 +199,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Criar um novo quadro": false
+      "obsidian-kanban:Criar um novo quadro": false,
+      "graph:Abrir visualização em gráfico": false
     }
   },
-  "active": "dec723cec399af94",
+  "active": "db6a6ac80cd443c4",
   "lastOpenFiles": [
-    "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
-    "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_doc.md",
-    "dev/COMANDS UTILS/python.md",
-    "dev/daily/2025-08-05.md",
-    "dev/daily/task's.md",
-    "dev/COMANDS UTILS/git.md",
-    "dev/COMANDS UTILS/docker.md",
+    "dev/daily/notes/2025-08-05.md",
+    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
+    "dev/desenvolvimento_web/docs/architecture_patterns_doc.md",
+    "dev/desenvolvimento_web/docs/desenvolvimento_web_doc.md",
+    "dev/daily/notes",
+    "dev/desenvolvimento_web/docs/design_patterns_doc.md",
     "dev/COMANDS UTILS/CMD.md",
+    "dev/desenvolvimento_web/docs",
+    "dev/COMANDS UTILS/docker.md",
+    "dev/COMANDS UTILS/python.md",
+    "dev/COMANDS UTILS/git.md",
+    "Kanban sem título.md",
+    "dev/daily/task's.md",
     "dev/COMANDS UTILS/COMANDS UTILS.md",
     "cmd.md",
-    "dev/docs_desenvolvimento_web_storm/images",
+    "dev/desenvolvimento_web/images",
     "dev/utils/Kanban sem título.md",
     "README.md",
     "dev/COMANDS UTILS",
     "dev/daily",
     "2025-08-04.md",
-    "dev/docs_desenvolvimento_web_storm/images/header_example.png",
-    "dev/docs_desenvolvimento_web_storm/images/indciamento_enpoint.png",
-    "dev/docs_desenvolvimento_web_storm/images/postman_example.png",
-    "dev/docs_desenvolvimento_web_storm/images/schema_example.png",
+    "dev/desenvolvimento_web/images/header_example.png",
+    "dev/desenvolvimento_web/images/indciamento_enpoint.png",
+    "dev/desenvolvimento_web/images/postman_example.png",
+    "dev/desenvolvimento_web/images/schema_example.png",
     "Sem título.canvas",
     "dev1/desenvolvimento_web_storm.canvas",
-    "dev/docs_desenvolvimento_web_storm/images/enpoint_example.png",
-    "dev/docs_desenvolvimento_web_storm",
+    "dev/desenvolvimento_web/images/enpoint_example.png",
+    "dev/desenvolvimento_web",
     "dev",
     "dev1/docs/schema_example.png",
     "dev1/docs/model_example.png",
@@ -254,11 +256,9 @@
     "dev/desenvolvimento_web_doc.md",
     "dev1/Sem título",
     "dev1",
-    "dev.rar",
     "2025-07-24.md",
     "dev 1/desenvolvimento_web_storm.canvas",
     "dev 1/desenvolvimento_web_doc.md",
-    "dev 1",
     "Sem título 1.md",
     "Sem título.md",
     "Bem-vindo.md"
