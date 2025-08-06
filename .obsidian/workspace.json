@@ -8,37 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cd60b67d5f8c1f1",
+            "id": "dec723cec399af94",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
-                "viewState": {
-                  "x": -3051,
-                  "y": -873.5,
-                  "zoom": -2.123446871004385
+                "file": "dev/daily/task's.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "desenvolvimento_web_storm"
-            }
-          },
-          {
-            "id": "fbc284a1e309b478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_doc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "desenvolvimento_web_doc"
+              "icon": "lucide-trello",
+              "title": "task's"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -128,12 +118,91 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "9582cb7b5791ae83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e7f0bc0c5f84bde9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para desenvolvimento_web_storm"
+            }
+          },
+          {
+            "id": "ab4c6cdfe8893541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para desenvolvimento_web_storm"
+            }
+          },
+          {
+            "id": "2134939ed0e73365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dev/daily/task's.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de task's"
+            }
+          }
+        ]
+      },
+      {
+        "id": "22f905d0877fe273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "505c7a3c5b4ca632",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,20 +212,35 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "3cd60b67d5f8c1f1",
+  "active": "dec723cec399af94",
   "lastOpenFiles": [
-    "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_doc.md",
     "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_storm.canvas",
+    "dev/docs_desenvolvimento_web_storm/desenvolvimento_web_doc.md",
+    "dev/COMANDS UTILS/python.md",
+    "dev/daily/2025-08-05.md",
+    "dev/daily/task's.md",
+    "dev/COMANDS UTILS/git.md",
+    "dev/COMANDS UTILS/docker.md",
+    "dev/COMANDS UTILS/CMD.md",
+    "dev/COMANDS UTILS/COMANDS UTILS.md",
+    "cmd.md",
+    "dev/docs_desenvolvimento_web_storm/images",
+    "dev/utils/Kanban sem título.md",
+    "README.md",
+    "dev/COMANDS UTILS",
+    "dev/daily",
+    "2025-08-04.md",
+    "dev/docs_desenvolvimento_web_storm/images/header_example.png",
+    "dev/docs_desenvolvimento_web_storm/images/indciamento_enpoint.png",
+    "dev/docs_desenvolvimento_web_storm/images/postman_example.png",
+    "dev/docs_desenvolvimento_web_storm/images/schema_example.png",
     "Sem título.canvas",
-    "dev/docs_desenvolvimento_web_storm/schema_example.png",
     "dev1/desenvolvimento_web_storm.canvas",
-    "dev/docs_desenvolvimento_web_storm/postman_example.png",
-    "dev/docs_desenvolvimento_web_storm/indciamento_enpoint.png",
-    "dev/docs_desenvolvimento_web_storm/header_example.png",
-    "dev/docs_desenvolvimento_web_storm/enpoint_example.png",
+    "dev/docs_desenvolvimento_web_storm/images/enpoint_example.png",
     "dev/docs_desenvolvimento_web_storm",
     "dev",
     "dev1/docs/schema_example.png",
@@ -170,8 +254,6 @@
     "dev/desenvolvimento_web_doc.md",
     "dev1/Sem título",
     "dev1",
-    "dev/Sem título",
-    "README.md",
     "dev.rar",
     "2025-07-24.md",
     "dev 1/desenvolvimento_web_storm.canvas",
@@ -179,7 +261,6 @@
     "dev 1",
     "Sem título 1.md",
     "Sem título.md",
-    "Bem-vindo.md",
-    "Sem título"
+    "Bem-vindo.md"
   ]
 }
