@@ -15,13 +15,25 @@
               "state": {
                 "file": "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
                 "viewState": {
-                  "x": -1569.455379840937,
-                  "y": -3125.612223223236,
-                  "zoom": -1.6767382167852065
+                  "x": -2342.3667590402233,
+                  "y": 1024.0991357976063,
+                  "zoom": -2.6588601149034914
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "desenvolvimento_web"
+            }
+          },
+          {
+            "id": "fea7ab9afa8b7369",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.10"
             }
           }
         ],
@@ -48,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -199,37 +211,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Criar um novo quadro": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dec723cec399af94",
+  "active": "db6a6ac80cd443c4",
   "lastOpenFiles": [
+    "Kanban sem título.md",
+    "Base.base",
+    "Untitled.md",
+    "DAILY/notes/2025-08-05.md",
+    "DAILY/notes/Sem título.md",
+    "DAILY/notes/Kanban sem título.md",
+    "DAILY/task's.md",
+    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
     "COMANDS UTILS/CMD.md",
     "COMANDS UTILS/docker.md",
     "COMANDS UTILS/python.md",
     "COMANDS UTILS/git.md",
-    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
     "README.md",
-    "DAILY/notes/2025-08-05.md",
     "DEV/desenvolvimento_web/docs/architecture_patterns_doc.md",
     "DEV/desenvolvimento_web/docs/desenvolvimento_web_doc.md",
     "DAILY/notes",
     "DEV/desenvolvimento_web/docs/design_patterns_doc.md",
     "DEV/desenvolvimento_web/docs",
-    "Kanban sem título.md",
-    "DAILY/task's.md",
     "dev/COMANDS UTILS/COMANDS UTILS.md",
     "cmd.md",
     "DEV/desenvolvimento_web/images",
@@ -256,12 +274,9 @@
     "dev1/desenvolvimento_web_doc.md",
     "dev/desenvolvimento_web_doc.md",
     "dev1/Sem título",
-    "dev1",
     "2025-07-24.md",
     "dev 1/desenvolvimento_web_storm.canvas",
     "dev 1/desenvolvimento_web_doc.md",
-    "Sem título 1.md",
-    "Sem título.md",
-    "Bem-vindo.md"
+    "Sem título 1.md"
   ]
 }
