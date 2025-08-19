@@ -1,0 +1,35 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "miQxeC840IhwfzhLwrmFR",
+      "name": "sla",
+      "value": "#ff4d4d"
+    },
+    {
+      "id": "w7v3sIhJY6637_izZrGEe",
+      "name": "sla",
+      "value": "#8084ff"
+    },
+    {
+      "id": "7JIHs2pwjEH0ShsHCbu0Z",
+      "name": "sla",
+      "value": "#e463ee"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "DEV",
+      "color": "miQxeC840IhwfzhLwrmFR"
+    },
+    {
+      "path": "DAILY",
+      "color": "7JIHs2pwjEH0ShsHCbu0Z"
+    },
+    {
+      "path": "COMANDS UTILS",
+      "color": "w7v3sIhJY6637_izZrGEe"
+    }
+  ]
+}

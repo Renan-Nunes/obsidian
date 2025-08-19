@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "dev/desenvolvimento_web/desenvolvimento_web.canvas",
+                "file": "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
                 "viewState": {
-                  "x": -2271.8105802989285,
-                  "y": -1986.6037735849054,
-                  "zoom": -1.5615861626317855
+                  "x": -1569.455379840937,
+                  "y": -3125.612223223236,
+                  "zoom": -1.6767382167852065
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -48,7 +48,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 256.5
   },
   "right": {
     "id": "480ec9f7e54a9792",
@@ -112,8 +112,8 @@
               "type": "git-history-view",
               "state": {},
               "pinned": true,
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -203,48 +203,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:Abrir a troca rápida": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "graph:Abrir visualização em gráfico": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "db6a6ac80cd443c4",
+  "active": "dec723cec399af94",
   "lastOpenFiles": [
-    "dev/daily/notes/2025-08-05.md",
-    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
-    "dev/desenvolvimento_web/docs/architecture_patterns_doc.md",
-    "dev/desenvolvimento_web/docs/desenvolvimento_web_doc.md",
-    "dev/daily/notes",
-    "dev/desenvolvimento_web/docs/design_patterns_doc.md",
-    "dev/COMANDS UTILS/CMD.md",
-    "dev/desenvolvimento_web/docs",
-    "dev/COMANDS UTILS/docker.md",
-    "dev/COMANDS UTILS/python.md",
-    "dev/COMANDS UTILS/git.md",
+    "COMANDS UTILS/CMD.md",
+    "COMANDS UTILS/docker.md",
+    "COMANDS UTILS/python.md",
+    "COMANDS UTILS/git.md",
+    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
+    "README.md",
+    "DAILY/notes/2025-08-05.md",
+    "DEV/desenvolvimento_web/docs/architecture_patterns_doc.md",
+    "DEV/desenvolvimento_web/docs/desenvolvimento_web_doc.md",
+    "DAILY/notes",
+    "DEV/desenvolvimento_web/docs/design_patterns_doc.md",
+    "DEV/desenvolvimento_web/docs",
     "Kanban sem título.md",
-    "dev/daily/task's.md",
+    "DAILY/task's.md",
     "dev/COMANDS UTILS/COMANDS UTILS.md",
     "cmd.md",
-    "dev/desenvolvimento_web/images",
+    "DEV/desenvolvimento_web/images",
     "dev/utils/Kanban sem título.md",
-    "README.md",
-    "dev/COMANDS UTILS",
-    "dev/daily",
+    "COMANDS UTILS",
+    "DAILY",
     "2025-08-04.md",
-    "dev/desenvolvimento_web/images/header_example.png",
-    "dev/desenvolvimento_web/images/indciamento_enpoint.png",
-    "dev/desenvolvimento_web/images/postman_example.png",
-    "dev/desenvolvimento_web/images/schema_example.png",
+    "DEV/desenvolvimento_web/images/header_example.png",
+    "DEV/desenvolvimento_web/images/indciamento_enpoint.png",
+    "DEV/desenvolvimento_web/images/postman_example.png",
+    "DEV/desenvolvimento_web/images/schema_example.png",
     "Sem título.canvas",
     "dev1/desenvolvimento_web_storm.canvas",
-    "dev/desenvolvimento_web/images/enpoint_example.png",
-    "dev/desenvolvimento_web",
-    "dev",
+    "DEV/desenvolvimento_web/images/enpoint_example.png",
+    "DEV/desenvolvimento_web",
+    "DEV",
     "dev1/docs/schema_example.png",
     "dev1/docs/model_example.png",
     "dev1/docs/postman_example.png",
