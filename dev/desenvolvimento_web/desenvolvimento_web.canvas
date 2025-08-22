@@ -25,14 +25,12 @@
 		{"id":"cf84d8f156ff270e","type":"file","file":"DEV/desenvolvimento_web/images/enpoint_example.png","x":-2840,"y":-40,"width":640,"height":697},
 		{"id":"0b5225bfe6b316c7","type":"text","text":"## **ENDPOINT_EXAMPLE:**\n```python\n\n@router.get(\"/quebras\")\nasync def listar_empresas_com_quebra(\n\tdb_session: DBSessionDEP,\n\tparams: Params = Depends(),\n\tquery_params: EmpresaQueryParams = Depends(),\n\tsituacao: Optional[str] = Query(None),\n\torder: Optional[str] = Query(None),\n\torder_by: Optional[str] = Query(None),\n\tcurrent_user: CurrentUserDep = None                 \n)->IGetResponsePaginated[IEmpresaBase]:\n\titems=await controllers.crud_empresa.listar_quebras(\n\tdb_session=db_session,\n\tquery_params=query_params,\n\tparams=params,\n\toder=order,\n\toder_by=order_by,\n\tsituacao=situacao\n\t)\n\treturn items\n```","x":-2839,"y":800,"width":655,"height":560},
 		{"id":"ecd7d2dcde0ca73f","type":"file","file":"DEV/desenvolvimento_web/docs/desenvolvimento_web_doc.md","x":-3381,"y":-2041,"width":623,"height":672,"color":"#ff00d0"},
-		{"id":"fb218fe7751b4bf2","type":"file","file":"DEV/desenvolvimento_web/docs/design_patterns_doc.md","x":-2463,"y":-3018,"width":663,"height":518,"color":"5"},
 		{"id":"88759278a1991fd9","type":"text","text":"### **PADRÕES CRIACIONAIS**","x":-2340,"y":-3760,"width":307,"height":86,"color":"5"},
 		{"id":"5b6427bc4d7fa4f2","type":"text","text":"### **PADRÕES ESTRUTURAIS**","x":-2340,"y":-3560,"width":307,"height":86,"color":"5"},
 		{"id":"70cffcbad4af2f45","type":"text","text":"### **PADRÕES COMPORTAMENTAIS**","x":-2340,"y":-3366,"width":307,"height":86,"color":"5"},
 		{"id":"3039fcef9a00d912","type":"file","file":"DEV/desenvolvimento_web/docs/architecture_patterns_doc.md","x":-1600,"y":-2581,"width":696,"height":635,"color":"5"},
 		{"id":"7952b29428c819d4","type":"text","text":"## **FRAMEWORK/ESTRUTURA MVC**\n[[architecture_patterns_doc]]\n#architecture_patterns \n\n---\n\nUm conjunto de ferramentas, bibliotecas e estruturas **pré-prontas** que facilitam o desenvolvimento de aplicações.\n**`Model` – `View` – `Controller` entre outras**, separando responsabilidades da aplicação.\n\nGeralmente possuem as seguintes caracteristicas:\n- **Sistema de rotas**\n- **ORM (mapeamento de banco de dados)**\n- **Templates HTML/View engines**\n- **Middlewares**\n- **Validações**\n- **Autenticação/autorização** \n- **Gerenciador de pacotes/comandos**\n ","x":-3409,"y":-851,"width":580,"height":551,"color":"6"},
 		{"id":"6fc167f2916692ae","type":"text","text":"## **MIGRATIONS**","x":-1154,"y":-1760,"width":214,"height":60,"color":"6"},
-		{"id":"41694c492281cfeb","type":"text","text":"## **MICRO - SERVICE**","x":-1252,"y":-2880,"width":288,"height":50,"color":"5"},
 		{"id":"531491568c1672ef","type":"text","text":"## **API**\n","x":-967,"y":-3117,"width":117,"height":50,"color":"5"},
 		{"id":"b56e28f530a7e195","type":"text","text":"## **API**\n","x":-967,"y":-3237,"width":117,"height":50,"color":"5"},
 		{"id":"2a8a83da3dbd1006","type":"text","text":"## **API**\n","x":-967,"y":-3348,"width":117,"height":50,"color":"5"},
@@ -41,14 +39,17 @@
 		{"id":"b7d30404d19ac881","type":"text","text":"## **DB**","x":-789,"y":-3348,"width":100,"height":50,"color":"5"},
 		{"id":"dc47bbe31b3a7d3d","type":"text","text":"## **API**\n","x":-967,"y":-3008,"width":117,"height":50,"color":"5"},
 		{"id":"e350e34ec19c6454","type":"text","text":"## **DB**","x":-789,"y":-3008,"width":100,"height":50,"color":"5"},
-		{"id":"fb4bc7034fe419a2","type":"text","text":"## **API GATEWAY**","x":-1230,"y":-3177,"width":231,"height":60,"color":"5"},
-		{"id":"71790984954650cd","type":"text","text":"## **CLIENT**","x":-1470,"y":-3177,"width":150,"height":60,"color":"5"},
 		{"id":"32f8804535a0f9e9","type":"text","text":"**VIEW** -> HMTL, CSS, interface\n","x":-2580,"y":-575,"width":302,"height":50,"color":"6"},
 		{"id":"8af6271eb848dda6","type":"text","text":"as vezes pode estar rodando em um servidor prórprio quando o projeto está em micro service\n","x":-2187,"y":-737,"width":309,"height":117,"color":"6"},
 		{"id":"9fab617b813328f5","type":"text","text":"**CONTROLLER** -> intermedia com lógica as requisicões e respostas.","x":-2580,"y":-1000,"width":278,"height":104,"color":"6"},
 		{"id":"6aeca39cf4b0708b","type":"text","text":"**MODEL** -> Criar e manipular as entidades do Banco de dados","x":-2580,"y":-1141,"width":276,"height":96,"color":"6"},
 		{"id":"c16fc97c68239fc5","type":"file","file":"DEV/desenvolvimento_web/images/schema_example.png","x":-1998,"y":-1221,"width":120,"height":221},
-		{"id":"ae641496ce943469","x":-2028,"y":-248,"width":250,"height":60,"color":"6","type":"text","text":"## **PARAMS**"}
+		{"id":"ae641496ce943469","type":"text","text":"## **PARAMS**","x":-2028,"y":-248,"width":250,"height":60,"color":"6"},
+		{"id":"0f2242e9eb99f61a","type":"text","text":"PRIORITY QEUE","x":-1680,"y":920,"width":1360,"height":635,"color":"6"},
+		{"id":"41694c492281cfeb","type":"text","text":"## **MICRO - SERVICE**","x":-1255,"y":-2809,"width":288,"height":50,"color":"5"},
+		{"id":"fb218fe7751b4bf2","type":"file","file":"DEV/desenvolvimento_web/docs/design_patterns_doc.md","x":-2560,"y":-3008,"width":663,"height":518,"color":"5"},
+		{"id":"fb4bc7034fe419a2","type":"text","text":"## ** API GATEWAY**","x":-1424,"y":-3187,"width":244,"height":70,"color":"5"},
+		{"id":"71790984954650cd","type":"text","text":"## **CLIENT**","x":-1720,"y":-3182,"width":150,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"878a8633e9553e11","fromNode":"fa8b84e106fa3ee4","fromSide":"left","toNode":"b29dfe35a06b98d6","toSide":"bottom","color":"1"},
@@ -87,9 +88,7 @@
 		{"id":"b9b0ae81eb61674b","fromNode":"fb218fe7751b4bf2","fromSide":"top","toNode":"88759278a1991fd9","toSide":"left","color":"5"},
 		{"id":"e6b7e9be68452a60","fromNode":"fb218fe7751b4bf2","fromSide":"top","toNode":"5b6427bc4d7fa4f2","toSide":"left","color":"5"},
 		{"id":"9ca44fd287ff1177","fromNode":"fb218fe7751b4bf2","fromSide":"top","toNode":"70cffcbad4af2f45","toSide":"left","color":"5"},
-		{"id":"d4fac462e24aa464","fromNode":"3039fcef9a00d912","fromSide":"top","toNode":"41694c492281cfeb","toSide":"bottom","color":"5"},
-		{"id":"c1199fd5a759e1c2","fromNode":"41694c492281cfeb","fromSide":"top","toNode":"fb4bc7034fe419a2","toSide":"bottom","color":"5"},
-		{"id":"85611e4be1860c95","fromNode":"fb4bc7034fe419a2","fromSide":"left","toNode":"71790984954650cd","toSide":"right","fromEnd":"arrow","color":"5"},
+		{"id":"c1199fd5a759e1c2","fromNode":"3039fcef9a00d912","fromSide":"top","toNode":"41694c492281cfeb","toSide":"bottom","color":"5"},
 		{"id":"83f50d4703e2be7a","fromNode":"fb4bc7034fe419a2","fromSide":"right","toNode":"2a8a83da3dbd1006","toSide":"left","color":"5"},
 		{"id":"a1d10812315bbd70","fromNode":"fb4bc7034fe419a2","fromSide":"right","toNode":"b56e28f530a7e195","toSide":"left","color":"5"},
 		{"id":"25be3478974a5bad","fromNode":"fb4bc7034fe419a2","fromSide":"right","toNode":"531491568c1672ef","toSide":"left","color":"5"},
@@ -100,6 +99,8 @@
 		{"id":"3e277614dabcc169","fromNode":"2a8a83da3dbd1006","fromSide":"right","toNode":"b7d30404d19ac881","toSide":"left","color":"5"},
 		{"id":"beaa47469489c695","fromNode":"b56e28f530a7e195","fromSide":"right","toNode":"3a9b42daacfaaa46","toSide":"left","color":"5"},
 		{"id":"5f4141d1753ba6ac","fromNode":"531491568c1672ef","fromSide":"right","toNode":"eecdb4a91d059c2e","toSide":"left","color":"5"},
-		{"id":"e96888588d7c242a","fromNode":"29b4459f157d8abd","fromSide":"bottom","toNode":"ae641496ce943469","toSide":"top","color":"6"}
+		{"id":"e96888588d7c242a","fromNode":"29b4459f157d8abd","fromSide":"bottom","toNode":"ae641496ce943469","toSide":"top","color":"6"},
+		{"id":"492d510810433c13","fromNode":"71790984954650cd","fromSide":"right","toNode":"fb4bc7034fe419a2","toSide":"left","fromEnd":"arrow","color":"5"},
+		{"id":"25f0cbb578e3a473","fromNode":"41694c492281cfeb","fromSide":"top","toNode":"fb4bc7034fe419a2","toSide":"bottom","color":"5"}
 	]
 }

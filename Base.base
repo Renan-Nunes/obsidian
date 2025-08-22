@@ -1,3 +1,7 @@
 views:
   - type: table
     name: Tabela
+  - type: cards
+    name: Visualizaçao padrão
+    cardSize: 250
+    imageAspectRatio: 1.3

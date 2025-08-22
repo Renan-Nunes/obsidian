@@ -4,36 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c4f5ef1e7e6675d6",
+        "id": "89338e1aa0e51507",
         "type": "tabs",
         "children": [
           {
-            "id": "dec723cec399af94",
+            "id": "0afc7db7d8e64be0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
-                "viewState": {
-                  "x": -2342.3667590402233,
-                  "y": -150.5538666078628,
-                  "zoom": -2.6588601149034914
-                }
+                "file": "Pasted image 20250821225137.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "desenvolvimento_web"
-            }
-          },
-          {
-            "id": "fea7ab9afa8b7369",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.9.10"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250821225137"
             }
           }
         ],
@@ -211,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,23 +204,27 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Criar um novo quadro": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "markdown-importer:Abrir importador Markdown": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "db6a6ac80cd443c4",
+  "active": "0afc7db7d8e64be0",
   "lastOpenFiles": [
-    "Kanban sem título.md",
+    "Relatório – Projeto Looker.md",
+    "Pasted image 20250821225137.png",
+    "Pasted image 20250821224914.png",
+    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
     "Base.base",
+    "DEV/RPA",
     "Untitled.md",
+    "Kanban sem título.md",
     "DAILY/notes/2025-08-05.md",
     "DAILY/notes/Sem título.md",
     "DAILY/notes/Kanban sem título.md",
     "DAILY/task's.md",
-    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
     "COMANDS UTILS/CMD.md",
     "COMANDS UTILS/docker.md",
     "COMANDS UTILS/python.md",
@@ -267,16 +254,13 @@
     "dev1/docs/schema_example.png",
     "dev1/docs/model_example.png",
     "dev1/docs/postman_example.png",
-    "dev1/docs/indciamento_enpoint.png",
     "dev1/docs/desenvolvimento_web_doc.md",
     "dev1/docs",
     "dev1/Sem título/desenvolvimento_web_doc.md",
     "dev1/desenvolvimento_web_doc.md",
     "dev/desenvolvimento_web_doc.md",
-    "dev1/Sem título",
     "2025-07-24.md",
     "dev 1/desenvolvimento_web_storm.canvas",
-    "dev 1/desenvolvimento_web_doc.md",
-    "Sem título 1.md"
+    "dev 1/desenvolvimento_web_doc.md"
   ]
 }
