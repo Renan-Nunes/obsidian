@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlertTriangle",
       "LiAnchor",
       "LiAntenna",
       "LiArchive",
-      "LiAccessibility",
-      "LiAlarmClockCheck"
+      "LiAccessibility"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,16 @@
     "iconName": "LiAnchor",
     "iconColor": "#c22424"
   },
-  "DEV/RPA": "LiAnchor"
+  "DEV/Computação_Nuvem": "LiAnchor",
+  "DEV/IA": "LiAlertTriangle",
+  "DEV/IA/Harness_Enginner": "LiAlertTriangle",
+  "DEV/IA/Spec_Driven_Development": "LiAlertTriangle",
+  "DEV/IA/RAG": "LiAlertTriangle",
+  "DEV/AUTOMACAO": "LiAnchor",
+  "DEV/AUTOMACAO/ETL.canvas": "LiAntenna",
+  "DEV/AUTOMACAO/WEBSCRAPING.canvas": "LiAntenna",
+  "DEV/AUTOMACAO/RPA.canvas": "LiAntenna",
+  "DEV/AUTOMACAO/ETL_DOCS": "LiAnchor",
+  "DEV/AUTOMACAO/RPA_DOCS": "LiAnchor",
+  "DEV/AUTOMACAO/WEBSCRAPING_DOCS": "LiAnchor"
 }

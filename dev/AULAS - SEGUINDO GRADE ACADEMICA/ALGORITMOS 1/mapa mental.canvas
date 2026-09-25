@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"504e8e7b3e07ab96","type":"group","x":-137,"y":-400,"width":525,"height":420},
+		{"id":"c09314226645af6d","type":"group","x":-176,"y":200,"width":609,"height":234},
+		{"id":"e54935d59f0c2ebf","type":"group","x":-600,"y":-660,"width":1440,"height":90},
+		{"id":"a796a52864cdc65b","type":"group","x":-440,"y":-1040,"width":1120,"height":100},
+		{"id":"f92fffd65a0aed6d","type":"text","text":"OPERADORES - ATRIBUICAO","x":180,"y":-640,"width":260,"height":50,"color":"6"},
+		{"id":"220d050e7a71edb2","type":"text","text":"OPERADORES - RELACIONAIS","x":560,"y":-640,"width":260,"height":50,"color":"6"},
+		{"id":"89f39629a01925ad","type":"text","text":"   OPERADORES - LOGICOS","x":-580,"y":-640,"width":240,"height":50,"color":"6"},
+		{"id":"f62e4978ad4ddc78","type":"text","text":"OPERADORES - ARITMETICOS","x":-200,"y":-640,"width":260,"height":50,"color":"6"},
+		{"id":"66d5d3f129725d99","type":"text","text":"ESTRUTURAS SEQUENCIAS","x":-420,"y":-1020,"width":250,"height":60,"color":"6"},
+		{"id":"bef6723dbb7acf34","type":"text","text":"ESTRUTURAS CONDICIONAIS","x":-21,"y":-1020,"width":270,"height":60,"color":"6"},
+		{"id":"33166ed1654dab59","type":"text","text":"ESTRUTURAS DE REPETICAO","x":390,"y":-1020,"width":270,"height":60,"color":"6"},
+		{"id":"3a05c67294ae4f9c","type":"text","text":"CHAR","x":243,"y":-380,"width":125,"height":50,"color":"1"},
+		{"id":"8c84aea99d64d972","type":"text","text":"INT","x":243,"y":-276,"width":125,"height":50,"color":"2"},
+		{"id":"acfdf01d2d3752db","type":"text","text":"VARIAVEIS ","x":-117,"y":-260,"width":120,"height":60,"color":"6"},
+		{"id":"f14e435bee3d9038","type":"text","text":"FLOAT","x":243,"y":-160,"width":125,"height":60,"color":"3"},
+		{"id":"7576f418516f1011","type":"text","text":"DOUBLE","x":238,"y":-51,"width":130,"height":51,"color":"4"},
+		{"id":"ddfa1e0411fcede5","type":"text","text":"VETORES, ARRAY","x":163,"y":220,"width":250,"height":60,"color":"1"},
+		{"id":"cbf94dd0e8046bac","type":"text","text":" COLECAO DE DADOS","x":-156,"y":294,"width":206,"height":60,"color":"6"},
+		{"id":"bcca8117445f3d4c","type":"text","text":"MATRIZES","x":163,"y":354,"width":250,"height":60,"color":"2"},
+		{"id":"3bb21e70b043429f","type":"text","text":"ALGORITMOS","x":36,"y":-1520,"width":156,"height":57,"color":"6"}
+	],
+	"edges":[
+		{"id":"3de6678c68040822","fromNode":"acfdf01d2d3752db","fromSide":"right","toNode":"3a05c67294ae4f9c","toSide":"left"},
+		{"id":"abe1b350070112bc","fromNode":"acfdf01d2d3752db","fromSide":"right","toNode":"8c84aea99d64d972","toSide":"left"},
+		{"id":"e96b8648cb4fa1d5","fromNode":"acfdf01d2d3752db","fromSide":"right","toNode":"f14e435bee3d9038","toSide":"left"},
+		{"id":"61e43e6535fd9e97","fromNode":"acfdf01d2d3752db","fromSide":"right","toNode":"7576f418516f1011","toSide":"left"},
+		{"id":"206c906c58eaf681","fromNode":"cbf94dd0e8046bac","fromSide":"right","toNode":"ddfa1e0411fcede5","toSide":"left"},
+		{"id":"b8e6512e8f75a89f","fromNode":"cbf94dd0e8046bac","fromSide":"right","toNode":"bcca8117445f3d4c","toSide":"left"}
+	]
+}
