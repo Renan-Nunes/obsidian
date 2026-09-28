@@ -40,7 +40,6 @@
 		{"id":"ae641496ce943469","type":"text","text":"## **PARAMS**","x":-2028,"y":-248,"width":250,"height":60,"color":"6"},
 		{"id":"0f2242e9eb99f61a","type":"text","text":"PRIORITY QEUE","x":-1680,"y":920,"width":1360,"height":635,"color":"6"},
 		{"id":"41694c492281cfeb","type":"text","text":"## **MICRO - SERVICE**","x":-1255,"y":-2809,"width":288,"height":50,"color":"5"},
-		{"id":"fb218fe7751b4bf2","type":"file","file":"DEV/desenvolvimento_web/docs/design_patterns_doc.md","x":-2560,"y":-3008,"width":663,"height":518,"color":"5"},
 		{"id":"fb4bc7034fe419a2","type":"text","text":"## ** API GATEWAY**","x":-1424,"y":-3187,"width":244,"height":70,"color":"5"},
 		{"id":"71790984954650cd","type":"text","text":"## **CLIENT**","x":-1720,"y":-3182,"width":150,"height":60,"color":"5"},
 		{"id":"3b56fcb843a42ff7","type":"text","text":"## **API**\n","x":-967,"y":-3060,"width":117,"height":50,"color":"5"},
@@ -54,7 +53,8 @@
 		{"id":"72a2f782bade7bcc","type":"text","text":"## **API GATEWAY**","x":886,"y":-3084,"width":232,"height":60,"color":"1"},
 		{"id":"24d843dc3004f0ce","type":"text","text":"## **CLIENT**","x":932,"y":-2908,"width":140,"height":50,"color":"1"},
 		{"id":"42639d02553bb97c","type":"text","text":"## **AUTH - SERVICE**","x":80,"y":-2625,"width":250,"height":67,"color":"1"},
-		{"id":"d72fec57d40766f4","type":"text","text":"## **USER - SERVICE**","x":80,"y":-2792,"width":250,"height":67,"color":"1"}
+		{"id":"d72fec57d40766f4","type":"text","text":"## **USER - SERVICE**","x":80,"y":-2792,"width":250,"height":67,"color":"1"},
+		{"id":"fb218fe7751b4bf2","type":"file","file":"DEV/desenvolvimento_web/docs/design_patterns_doc.md","x":-2600,"y":-3100,"width":663,"height":518,"color":"5"}
 	],
 	"edges":[
 		{"id":"878a8633e9553e11","fromNode":"fa8b84e106fa3ee4","fromSide":"left","toNode":"b29dfe35a06b98d6","toSide":"bottom","color":"1"},
