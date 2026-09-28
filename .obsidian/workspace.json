@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
                 "viewState": {
-                  "x": -117.73665593752054,
-                  "y": -562.114401192159,
-                  "zoom": -1.7654126341244776
+                  "x": 274.15655092028635,
+                  "y": -787.2390505146063,
+                  "zoom": -1.6288491081074503
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -219,14 +219,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db6a6ac80cd443c4",
+  "active": "cd6d8e0c0d9421b1",
   "lastOpenFiles": [
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
+    "DAILY/task's.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 2/mapa mental.canvas",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES",
@@ -263,7 +264,6 @@
     "2025-09-08.md",
     "2025-08-22.md",
     "DAILY/notes/2025-08-05.md",
-    "DAILY/task's.md",
     "Pasted image 20250822203917.png",
     "Pasted image 20250822203727.png",
     "Pasted image 20250822203917-1.png",
