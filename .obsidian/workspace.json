@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
                 "viewState": {
                   "x": 354.10888767074266,
                   "y": 1423.952142612741,
@@ -214,8 +214,8 @@
       "markdown-importer:Abrir importador Markdown": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "bases:Criar nova base": false,
-      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
@@ -228,6 +228,26 @@
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs",
     "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
+    "DAILY/task's.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 2/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Álgebra Relacional.md",
+    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
+    "dev/AUTOMACAO/WEBSCRAPING.canvas",
+    "dev/AUTOMACAO/RPA.canvas",
+    "dev/AUTOMACAO/ETL.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Modelagem - Relacionamento.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Normalização.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/SQL.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/Sem título.md",
+    "dev/aulas/Bem-vindo.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Modelagem - Relacionamento.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Normalização.md",
@@ -245,7 +265,6 @@
     "DEV/AUTOMACAO/WEBSCRAPING.canvas",
     "DEV/AUTOMACAO/ETL.canvas",
     "DEV/AUTOMACAO",
-    "DEV/IA/Harness_Enginner/Sem título.canvas",
     "DEV/AUTOMACAO/WEBSCRAPING_DOCS",
     "DEV/AUTOMACAO/ETL_DOCS",
     "DEV/IA/RAG",
@@ -256,7 +275,6 @@
     "2025-09-08.md",
     "2025-08-22.md",
     "DAILY/notes/2025-08-05.md",
-    "DAILY/task's.md",
     "Pasted image 20250822203917.png",
     "Pasted image 20250822203727.png",
     "Pasted image 20250822203917-1.png",
@@ -274,7 +292,6 @@
     "COMANDS UTILS/git.md",
     "DEV/desenvolvimento_web/images/header_example.png",
     "DEV/desenvolvimento_web/images/indciamento_enpoint.png",
-    "DEV/desenvolvimento_web/images/postman_example.png",
-    "Sem título.canvas"
+    "DEV/desenvolvimento_web/images/postman_example.png"
   ]
 }
