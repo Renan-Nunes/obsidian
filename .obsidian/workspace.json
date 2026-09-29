@@ -15,9 +15,9 @@
               "state": {
                 "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
                 "viewState": {
-                  "x": 120,
-                  "y": -108.91921824104236,
-                  "zoom": -1.2226609296269846
+                  "x": 354.10888767074266,
+                  "y": 1423.952142612741,
+                  "zoom": -1.9647422752436323
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -219,8 +219,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cd6d8e0c0d9421b1",
+  "active": "db6a6ac80cd443c4",
   "lastOpenFiles": [
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Aritmedicos.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Relacionais.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Atribuicao.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs",
+    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Modelagem - Relacionamento.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Normalização.md",
@@ -228,9 +235,7 @@
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/SQL.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 2/mapa mental.canvas",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 2",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/Sem título.md",
     "DEV/desenvolvimento_web/docs/architecture_patterns_doc.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA",
@@ -239,7 +244,6 @@
     "DEV/AUTOMACAO/RPA.canvas",
     "DEV/AUTOMACAO/WEBSCRAPING.canvas",
     "DEV/AUTOMACAO/ETL.canvas",
-    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
     "DEV/AUTOMACAO",
     "DEV/IA/Harness_Enginner/Sem título.canvas",
     "DEV/AUTOMACAO/WEBSCRAPING_DOCS",
@@ -247,7 +251,6 @@
     "DEV/IA/RAG",
     "DEV/IA/Spec_Driven_Development/Sem título.canvas",
     "DEV/IA",
-    "DEV/Computação_Nuvem",
     "Excalidraw/Drawing 2026-09-12 19.09.26.excalidraw.md",
     "Relatório – Projeto Looker.md",
     "2025-09-08.md",
@@ -269,9 +272,6 @@
     "COMANDS UTILS/docker.md",
     "COMANDS UTILS/python.md",
     "COMANDS UTILS/git.md",
-    "README.md",
-    "dev/COMANDS UTILS/COMANDS UTILS.md",
-    "cmd.md",
     "DEV/desenvolvimento_web/images/header_example.png",
     "DEV/desenvolvimento_web/images/indciamento_enpoint.png",
     "DEV/desenvolvimento_web/images/postman_example.png",
