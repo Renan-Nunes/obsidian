@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1b74bb00bf0cb9",
+        "id": "fd8dd2cac6da23e8",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6ce61d923b6bf6",
+            "id": "972b3b0f2daa7513",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
-                "mode": "source",
-                "source": false
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "viewState": {
+                  "x": 1070.534312247147,
+                  "y": -1336.390767060425,
+                  "zoom": -3.333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Normalização"
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
             }
           }
         ]
@@ -31,12 +34,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f742a0f86642f9da",
+        "id": "2abebfeca7bf781a",
         "type": "tabs",
-        "dimension": 67.27272727272727,
+        "dimension": 70.1010101010101,
         "children": [
           {
-            "id": "b84ef0d3b18f2a42",
+            "id": "519717d7b195e2d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +54,7 @@
             }
           },
           {
-            "id": "5bc9df10c0a51fcb",
+            "id": "82d69be870f4f55f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +71,7 @@
             }
           },
           {
-            "id": "d0890628e5669564",
+            "id": "a628b5cfd3b240c8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,9 +86,9 @@
         ]
       },
       {
-        "id": "fe269e4186edc057",
+        "id": "f5ff696362a55244",
         "type": "tabs",
-        "dimension": 32.72727272727273,
+        "dimension": 29.898989898989893,
         "children": [
           {
             "id": "db6a6ac80cd443c4",
@@ -120,19 +123,89 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "9582cb7b5791ae83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 251.5
   },
   "right": {
     "id": "480ec9f7e54a9792",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "d10c273d56f5fb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a05e53bf2055b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "50170f9b5b3e0052",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f8ee1e4017707374",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 362.5,
+    "width": 231.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,67 +219,67 @@
       "markdown-importer:Abrir importador Markdown": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "bases:Criar nova base": false,
-      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db6a6ac80cd443c4",
+  "active": "972b3b0f2daa7513",
   "lastOpenFiles": [
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Modelagem - Relacionamento.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/BANCO DE DADOS.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123609.jpg",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123329.jpg",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/ALGORITMOS.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/como-fazer-bolo-para-vender.webp",
-    "Pasted image 20260929123021.jpg",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
-    "Pasted image 20260929114006.png",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/KANBAN.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/BACKLOG.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/imgs/Pasted image 20260930104102.png",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/imgs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/Engenharia de Software.md",
+    "Pasted image 20260930104044.png",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/ALGORITMOS.md",
+    "dev/aulas/BANCO DE DADOS 2/mapa mental.canvas",
+    "COMANDS UTILS/python.md",
+    "dev/aulas/BANCO DE DADOS 2",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Álgebra Relacional.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/SQL.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Modelagem - Relacionamento.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/BANCO DE DADOS.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123609.jpg",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123329.jpg",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/como-fazer-bolo-para-vender.webp",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Relacionais.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Atribuicao.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Aritmedicos.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas sequencias.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas de Repetição.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas condicionais.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs",
     "Excalidraw/Drawing 2026-09-29 11.26.46.excalidraw.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas de Repetição.md",
-    "Pasted image 20260929112403.png",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas sequencias.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas condicionais.md",
-    "DEV/aulas/BANCO DE DADOS 2/mapa mental.canvas",
-    "DEV/aulas/ENGENHARIA DE SOFTWARE 2",
-    "DEV/aulas/ENGENHARIA DE SOFTWARE 1",
-    "DEV/aulas/IHC - INTERAÇÃO HUMADO COMPUTADOR",
-    "DEV/aulas/Bem-vindo.md",
-    "DEV/aulas/GESTÃO EM TI",
-    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Aritmedicos.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Atribuicao.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Relacionais.md",
-    "Pasted image 20260928234709.png",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/SQL.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Álgebra Relacional.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
-    "conflict-files-obsidian-git.md",
-    "Relatório – Projeto Looker.md",
-    "DEV/aulas",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs",
-    "DEV/desenvolvimento_web/docs/architecture_patterns_doc.md",
-    "DEV/desenvolvimento_web/docs/desenvolvimento_web_doc.md",
-    "DEV/desenvolvimento_web/docs/design_patterns_doc.md",
-    "DEV/AUTOMACAO/RPA.canvas",
-    "DEV/AUTOMACAO/WEBSCRAPING.canvas",
-    "DEV/AUTOMACAO/ETL.canvas",
-    "DEV/IA/Harness_Enginner/Sem título.canvas",
-    "DEV/IA/Spec_Driven_Development/Sem título.canvas",
-    "Excalidraw/Drawing 2026-09-12 19.09.26.excalidraw.md",
-    "2025-09-08.md",
+    "Excalidraw",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
+    "DAILY/task's.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 2/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Álgebra Relacional.md",
+    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
+    "dev/AUTOMACAO/WEBSCRAPING.canvas",
+    "dev/AUTOMACAO/RPA.canvas",
+    "dev/AUTOMACAO/ETL.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Modelagem - Relacionamento.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Normalização.md",
     "Pasted image 20250822203917.png",
     "Pasted image 20250822203727.png",
-    "Pasted image 20250822203917-1.png"
+    "Pasted image 20250822203917-1.png",
+    "Pasted image 20250822203917-1-1.png",
+    "Pasted image 20250822203431.png"
   ]
 }
