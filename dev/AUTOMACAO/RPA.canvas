@@ -1,1 +1,41 @@
-{}
+{
+	"nodes":[
+		{"id":"d14ba73982aacb5e","type":"text","text":"MONTAR ARQUITETURA BASE PARA NAVEGAÇÃO EM CIMA DA APLICAÇÃO A SER AUTOMATIZADA","x":-320,"y":-540,"width":360,"height":100},
+		{"id":"02056a89e54d764e","type":"text","text":"ORCHESTRADOR ","x":440,"y":-520,"width":180,"height":60},
+		{"id":"1b5ec648f532e752","type":"text","text":"QUAL TIPO DE TRATAMENTO VAI SER REALIZADO","x":1491,"y":-526,"width":280,"height":70},
+		{"id":"96155bf875a636bd","type":"text","text":"PROCESSUAL ","x":1921,"y":-521,"width":160,"height":60},
+		{"id":"8ad20ae7cc7ab35c","type":"text","text":"EXTRAÇÃO ","x":1921,"y":-363,"width":250,"height":60},
+		{"id":"612ac114ccd3fe65","type":"text","text":"DADOS QUE PODEM SER EXTRAIDOS E ESTRUTURADOS PARA LOGICA INTERNA.","x":1902,"y":-217,"width":289,"height":112},
+		{"id":"2730aa0ebe5d6fed","type":"text","text":"LOGICO - TRATAR NO PROPRIO BANCO EXTERNO","x":1921,"y":-696,"width":250,"height":80},
+		{"id":"b3a07dfb3d8b5426","type":"text","text":"CLASSE DE BANCO","x":1950,"y":-851,"width":193,"height":50},
+		{"id":"c5b8f45f9e484c20","type":"text","text":"AUTOMAÇÃO DE APLICAÇÂO BANCO -> GUI","x":760,"y":-520,"width":250,"height":60},
+		{"id":"a13bf4a46c06d1d3","type":"text","text":"EM CIMA DE QUAL INPUT/DADO A AUTOMAÇÃO IRA SERVIR O PROCESSO PLANEJADO","x":1081,"y":-545,"width":339,"height":108},
+		{"id":"5b224ebc2968b5b8","type":"text","text":"TRIGGER - INICIO DA ESTEIRA","x":1104,"y":-358,"width":294,"height":50},
+		{"id":"2cfb50a561cc5742","type":"text","text":"VISÃO COMPUTACIONAL","x":2460,"y":-756,"width":250,"height":60},
+		{"id":"8e932e57dba32822","type":"text","text":"MODO ANALOGICO","x":2800,"y":-521,"width":200,"height":60},
+		{"id":"9fed4c098f31e7cf","type":"text","text":"OCR - Optical Character Recognition\n\nEasyOCR - Tesseract - PaddleOCR\n\nFERRAMENTAL QUE FORNECA A IMAGEM A OCR.\n\nPYAUTOGUI - PILLOW (PIL) - MSS  \n\nFERRAMENTAL DE PRE TRATAMENTO DA IMAGEM\n\nOPENCV","x":2339,"y":-1136,"width":492,"height":285},
+		{"id":"4e508b4ad0c5faee","type":"text","text":"DADOS DE ACESSIBILIDADE/INTERFACE DA GUI - SE FORNECIDOS","x":2440,"y":-294,"width":340,"height":77},
+		{"id":"94a2f1b4a0f5b487","type":"text","text":"Windows UI Automation (UIA), Win32, pywinauto","x":2409,"y":-137,"width":402,"height":65},
+		{"id":"3f4a4aa4c9c6bd93","type":"text","text":"Através de informações como classe, id, nome, componente.","x":2463,"y":-12,"width":295,"height":80},
+		{"id":"b0e0e1735a405b8f","type":"text","text":"3 TIPOS DE ABORDAGEM","x":2289,"y":-521,"width":240,"height":60}
+	],
+	"edges":[
+		{"id":"f4da70e5b95325d2","fromNode":"d14ba73982aacb5e","fromSide":"right","toNode":"02056a89e54d764e","toSide":"left","label":"SUGESTAO"},
+		{"id":"7e91f6c358c7d631","fromNode":"a13bf4a46c06d1d3","fromSide":"right","toNode":"1b5ec648f532e752","toSide":"left"},
+		{"id":"a77479625a6696d6","fromNode":"2730aa0ebe5d6fed","fromSide":"top","toNode":"b3a07dfb3d8b5426","toSide":"bottom"},
+		{"id":"b66fbbc0145a158d","fromNode":"02056a89e54d764e","fromSide":"right","toNode":"c5b8f45f9e484c20","toSide":"left"},
+		{"id":"856cceda03c88568","fromNode":"c5b8f45f9e484c20","fromSide":"right","toNode":"a13bf4a46c06d1d3","toSide":"left"},
+		{"id":"69e93681aec0d67b","fromNode":"1b5ec648f532e752","fromSide":"right","toNode":"96155bf875a636bd","toSide":"left"},
+		{"id":"87bedb9ce12155b3","fromNode":"1b5ec648f532e752","fromSide":"right","toNode":"2730aa0ebe5d6fed","toSide":"left"},
+		{"id":"d651aa57dc5cc5db","fromNode":"1b5ec648f532e752","fromSide":"right","toNode":"8ad20ae7cc7ab35c","toSide":"left"},
+		{"id":"6ecf579bea5488a5","fromNode":"96155bf875a636bd","fromSide":"right","toNode":"b0e0e1735a405b8f","toSide":"left"},
+		{"id":"a1916eace6a7e494","fromNode":"b0e0e1735a405b8f","fromSide":"right","toNode":"2cfb50a561cc5742","toSide":"left"},
+		{"id":"c1b6bdf7d4063c01","fromNode":"8ad20ae7cc7ab35c","fromSide":"bottom","toNode":"612ac114ccd3fe65","toSide":"top"},
+		{"id":"94371fe46163f6f6","fromNode":"b0e0e1735a405b8f","fromSide":"right","toNode":"4e508b4ad0c5faee","toSide":"left"},
+		{"id":"86010f1d26e63a66","fromNode":"b0e0e1735a405b8f","fromSide":"right","toNode":"8e932e57dba32822","toSide":"left"},
+		{"id":"1393864c73fe0e82","fromNode":"2cfb50a561cc5742","fromSide":"top","toNode":"9fed4c098f31e7cf","toSide":"bottom"},
+		{"id":"0ff50035f31e6aeb","fromNode":"a13bf4a46c06d1d3","fromSide":"bottom","toNode":"5b224ebc2968b5b8","toSide":"top"},
+		{"id":"027a6a07d538320b","fromNode":"4e508b4ad0c5faee","fromSide":"bottom","toNode":"94a2f1b4a0f5b487","toSide":"top"},
+		{"id":"6a9d916b61965309","fromNode":"94a2f1b4a0f5b487","fromSide":"bottom","toNode":"3f4a4aa4c9c6bd93","toSide":"top"}
+	]
+}
