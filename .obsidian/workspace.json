@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8dd2cac6da23e8",
+        "id": "e9b5eca78d642af7",
         "type": "tabs",
         "children": [
           {
-            "id": "972b3b0f2daa7513",
+            "id": "35d44cabf254cd5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LEITURAS/CAR GUSTAV JUNG.md",
-                "mode": "source",
-                "source": false
+                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
+                "viewState": {
+                  "x": -139.05165004980518,
+                  "y": 879.4767276243256,
+                  "zoom": -2.083817317168456
+                }
               },
-              "icon": "lucide-file",
-              "title": "CAR GUSTAV JUNG"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -220,23 +223,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "972b3b0f2daa7513",
+  "active": "35d44cabf254cd5e",
   "lastOpenFiles": [
-    "LEITURAS/MARCEL PROUST.md",
+    "Pasted image 20261112145954.png",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
+    "Pasted image 20261112145935.png",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/docs/Interação Humano Computador.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/imgs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/docs",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/Engenharia de Software.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/KANBAN.md",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "LEITURAS/CAR GUSTAV JUNG.md",
+    "LEITURAS/MARCEL PROUST.md",
     "POLITICA.canvas",
     "LEITURAS",
     "Pasted image 20260930104044.png",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
     "dev/AUTOMACAO/RPA.canvas",
     "dev/desenvolvimento_web/desenvolvimento_web.canvas",
     "dev/AUTOMACAO/ETL.canvas",
     "dev/AUTOMACAO/WEBSCRAPING.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/Engenharia de Software.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/KANBAN.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "FACULDADE/Relatório – Projeto Looker.md",
     "FACULDADE",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/BACKLOG.md",
@@ -245,7 +255,6 @@
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/ALGORITMOS.md",
-    "dev/aulas/BANCO DE DADOS 2/mapa mental.canvas",
     "COMANDS UTILS/python.md",
     "dev/aulas/BANCO DE DADOS 2",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Álgebra Relacional.md",
@@ -257,7 +266,6 @@
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123609.jpg",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123329.jpg",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/como-fazer-bolo-para-vender.webp",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Relacionais.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Atribuicao.md",
@@ -265,18 +273,12 @@
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas sequencias.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas de Repetição.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas condicionais.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs",
     "Excalidraw/Drawing 2026-09-29 11.26.46.excalidraw.md",
-    "Excalidraw",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
     "DAILY/task's.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Álgebra Relacional.md",
     "Pasted image 20250822203917.png",
     "Pasted image 20250822203727.png",
-    "Pasted image 20250822203917-1.png",
-    "Pasted image 20250822203917-1-1.png",
-    "Pasted image 20250822203431.png"
+    "Pasted image 20250822203917-1.png"
   ]
 }
