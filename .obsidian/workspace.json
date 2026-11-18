@@ -11,17 +11,14 @@
             "id": "35d44cabf254cd5e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
-                "viewState": {
-                  "x": -139.05165004980518,
-                  "y": 879.4767276243256,
-                  "zoom": -2.083817317168456
-                }
+                "file": "LEITURAS/CAR GUSTAV JUNG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "CAR GUSTAV JUNG"
             }
           }
         ]
@@ -225,26 +222,26 @@
   },
   "active": "35d44cabf254cd5e",
   "lastOpenFiles": [
-    "Pasted image 20261112145954.png",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
-    "Pasted image 20261112145935.png",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "LEITURAS/CAR GUSTAV JUNG.md",
+    "LEITURAS/MARCEL PROUST.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
+    "Pasted image 20261112145954.png",
+    "Pasted image 20261112145935.png",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/docs/Interação Humano Computador.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/imgs",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/docs",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/Engenharia de Software.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/KANBAN.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
-    "LEITURAS/CAR GUSTAV JUNG.md",
-    "LEITURAS/MARCEL PROUST.md",
     "POLITICA.canvas",
     "LEITURAS",
     "Pasted image 20260930104044.png",
     "dev/AUTOMACAO/RPA.canvas",
-    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
     "dev/AUTOMACAO/ETL.canvas",
     "dev/AUTOMACAO/WEBSCRAPING.canvas",
     "FACULDADE/Relatório – Projeto Looker.md",
