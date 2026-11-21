@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"4417cedb94862888","type":"text","text":"HE","x":-543,"y":160,"width":250,"height":60},
+		{"id":"fe37757fe5ca800c","type":"text","text":"SHE","x":-542,"y":60,"width":250,"height":60},
+		{"id":"c4f018c2e271a5c9","type":"text","text":"IT","x":-542,"y":260,"width":250,"height":60},
+		{"id":"d0a12116856041e5","type":"text","text":"WE","x":-543,"y":360,"width":250,"height":60},
+		{"id":"871b7bc9105cffec","type":"text","text":"THEY","x":-544,"y":460,"width":250,"height":50},
+		{"id":"824f299ceb0fa2b1","type":"text","text":"I","x":-544,"y":-140,"width":250,"height":60},
+		{"id":"6e55647d231e10fc","type":"text","text":"YOU","x":-545,"y":-40,"width":250,"height":60},
+		{"id":"bda5a412356cd27d","type":"text","text":"ARE | ARENT","x":-162,"y":-40,"width":160,"height":60},
+		{"id":"9122cbeedf40c96b","type":"text","text":"IM    |   NOT","x":-162,"y":-140,"width":160,"height":60},
+		{"id":"95c581c17f9086e2","type":"text","text":"IS | ISNT","x":-162,"y":160,"width":160,"height":60},
+		{"id":"c4d21ec204175240","type":"text","text":"ARE | ARENT","x":-162,"y":400,"width":155,"height":60}
+	],
+	"edges":[
+		{"id":"5e6f9cd378c869c2","fromNode":"824f299ceb0fa2b1","fromSide":"right","toNode":"9122cbeedf40c96b","toSide":"left"},
+		{"id":"66c3c548bf8e2de2","fromNode":"6e55647d231e10fc","fromSide":"right","toNode":"bda5a412356cd27d","toSide":"left"},
+		{"id":"8562e67b08a0bb67","fromNode":"fe37757fe5ca800c","fromSide":"right","toNode":"95c581c17f9086e2","toSide":"left"},
+		{"id":"02c87c2a414be3e6","fromNode":"4417cedb94862888","fromSide":"right","toNode":"95c581c17f9086e2","toSide":"left"},
+		{"id":"16756a42f5186ec3","fromNode":"c4f018c2e271a5c9","fromSide":"right","toNode":"95c581c17f9086e2","toSide":"left"},
+		{"id":"99955db998cf793b","fromNode":"d0a12116856041e5","fromSide":"right","toNode":"c4d21ec204175240","toSide":"left"},
+		{"id":"d8d3f42a14af1dbd","fromNode":"871b7bc9105cffec","fromSide":"right","toNode":"c4d21ec204175240","toSide":"left"}
+	]
+}

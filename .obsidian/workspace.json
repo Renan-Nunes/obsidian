@@ -4,24 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8dd2cac6da23e8",
+        "id": "e460489f04a23eaa",
         "type": "tabs",
         "children": [
           {
-            "id": "972b3b0f2daa7513",
+            "id": "77b70d4e9c417436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LEITURAS/CAR GUSTAV JUNG.md",
-                "mode": "source",
-                "source": false
+                "file": "Anima boat/BrainStorm.canvas",
+                "viewState": {
+                  "x": 505.1937717301709,
+                  "y": -222.65876891360392,
+                  "zoom": -2.741747214709065
+                }
               },
-              "icon": "lucide-file",
-              "title": "CAR GUSTAV JUNG"
+              "icon": "lucide-layout-dashboard",
+              "title": "BrainStorm"
+            }
+          },
+          {
+            "id": "e1fb858daae6a713",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "viewState": {
+                  "x": 224.36567854337716,
+                  "y": 777.7947024369602,
+                  "zoom": -2.3333333333333326
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mapa mental"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,12 +52,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2abebfeca7bf781a",
+        "id": "f742a0f86642f9da",
         "type": "tabs",
-        "dimension": 70.1010101010101,
+        "dimension": 67.27272727272727,
         "children": [
           {
-            "id": "519717d7b195e2d8",
+            "id": "b84ef0d3b18f2a42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +72,7 @@
             }
           },
           {
-            "id": "82d69be870f4f55f",
+            "id": "5bc9df10c0a51fcb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +89,7 @@
             }
           },
           {
-            "id": "a628b5cfd3b240c8",
+            "id": "d0890628e5669564",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,9 +104,9 @@
         ]
       },
       {
-        "id": "f5ff696362a55244",
+        "id": "fe269e4186edc057",
         "type": "tabs",
-        "dimension": 29.898989898989893,
+        "dimension": 32.72727272727273,
         "children": [
           {
             "id": "db6a6ac80cd443c4",
@@ -120,43 +141,28 @@
               "icon": "history",
               "title": "History"
             }
-          },
-          {
-            "id": "9582cb7b5791ae83",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 298.5
   },
   "right": {
     "id": "480ec9f7e54a9792",
     "type": "split",
     "children": [
       {
-        "id": "d10c273d56f5fb11",
+        "id": "e363f3cd69c77490",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a05e53bf2055b1",
+            "id": "e7cc4dfaa43761ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,12 +176,12 @@
             }
           },
           {
-            "id": "50170f9b5b3e0052",
+            "id": "245a53a089a3861a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -184,12 +190,27 @@
             }
           },
           {
-            "id": "f8ee1e4017707374",
+            "id": "095c68e0eea26fe3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5e16508592b6eaff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+                "file": "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
+    "width": 362.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -215,68 +236,67 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "bases:Criar nova base": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "972b3b0f2daa7513",
+  "active": "e1fb858daae6a713",
   "lastOpenFiles": [
-    "LEITURAS/MARCEL PROUST.md",
+    "Anima boat/IMGS/gatinho.png",
+    "Anima boat/BrainStorm.canvas",
+    "Anima boat/BRAINSTORM.md",
+    "Anima boat/IMGS/Captura de tela 2026-11-14 205349.png",
+    "Anima boat/IMGS/tempo.webp",
+    "Anima boat/IMGS/'macaco.jpg",
+    "Anima boat/IMGS/interno - avaliador/personaficação.jpg",
+    "Anima boat/IMGS/online.jpg",
+    "Anima boat/IMGS/decoração",
+    "Anima boat/IMGS/decoração/pet.jpg",
+    "Anima boat/IMGS/decoração/pet silvestres.jpg",
+    "Anima boat/IMGS/lucro e custo.jpg",
+    "Anima boat/IMGS/decoração/dj.jpg",
+    "Anima boat/IMGS/interno - avaliador",
+    "Anima boat/IMGS/externo - navegação",
+    "Anima boat/IMGS/interno - salão",
+    "Anima boat/IMGS/interno - cozinha",
+    "Anima boat/IMGS/externo - restaurante - barco",
+    "Sem título.canvas",
+    "Anima boat/IMGS",
+    "Base.base",
+    "Anima boat",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
     "LEITURAS/CAR GUSTAV JUNG.md",
+    "LEITURAS/MARCEL PROUST.md",
     "POLITICA.canvas",
     "LEITURAS",
-    "Pasted image 20260930104044.png",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
-    "dev/AUTOMACAO/RPA.canvas",
-    "dev/desenvolvimento_web/desenvolvimento_web.canvas",
-    "dev/AUTOMACAO/ETL.canvas",
-    "dev/AUTOMACAO/WEBSCRAPING.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/Engenharia de Software.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/KANBAN.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "FACULDADE/Relatório – Projeto Looker.md",
-    "FACULDADE",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/BACKLOG.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/imgs/Pasted image 20260930104102.png",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/imgs",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/ALGORITMOS.md",
-    "dev/aulas/BANCO DE DADOS 2/mapa mental.canvas",
-    "COMANDS UTILS/python.md",
-    "dev/aulas/BANCO DE DADOS 2",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Álgebra Relacional.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/SQL.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Modelagem - Relacionamento.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/BANCO DE DADOS.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123609.jpg",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123329.jpg",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/como-fazer-bolo-para-vender.webp",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Relacionais.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Atribuicao.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Aritmedicos.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas sequencias.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas de Repetição.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas condicionais.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/KANBAN.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/Engenharia de Software.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Modelagem - Relacionamento.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/BANCO DE DADOS.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/ALGORITMOS.md",
     "Excalidraw/Drawing 2026-09-29 11.26.46.excalidraw.md",
-    "Excalidraw",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
-    "DAILY/task's.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/Álgebra Relacional.md",
-    "Pasted image 20250822203917.png",
-    "Pasted image 20250822203727.png",
-    "Pasted image 20250822203917-1.png",
-    "Pasted image 20250822203917-1-1.png",
-    "Pasted image 20250822203431.png"
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas de Repetição.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas sequencias.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Estruturas condicionais.md",
+    "DEV/aulas/BANCO DE DADOS 2/mapa mental.canvas",
+    "DEV/aulas/Bem-vindo.md",
+    "DEV/desenvolvimento_web/desenvolvimento_web.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Aritmedicos.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Atribuicao.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Logicos.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/docs/Operadores Relacionais.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/SQL.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Álgebra Relacional.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
+    "conflict-files-obsidian-git.md",
+    "DEV/AUTOMACAO/RPA.canvas"
   ]
 }
