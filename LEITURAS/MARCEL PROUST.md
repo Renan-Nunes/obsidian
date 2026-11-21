@@ -1,2 +1,6 @@
 ## EM BUSCA DO TEMPO PERDIDO -
 CAP 1 - 
+Começa a nos introduzir a cidade em que passou sua infância ao se levantar de um sono e se encontrar num quarto tendo um flashback de todos os quartos em que dormiu, oq a levou a refletir a respeito dessas sinapses mentais que vamos criando ao longo do tempo, um cheiro que nos leva a pensar por exemplo ao comer um biscoito que desencadeia uma memoria de sua infância e a ambientação em que se encontrava.
+
+CAP 2 -
+Marcel começa a descrever do por que ele se interessou tanto na leitura, e mostrar ao leitor um pouco do ambiente que moldou esse gênio, um ambiente que por mais que tenha sido da alta cúpula da sociedade aristocrata francesa foi privada de outras artes além da literatura, o que fazia com que aquela mente idealizasse de uma forma poética o mundo em si, via arte desde na criada gravida que descascava tubérculos, até no quarto da tia avó doente que se alimentava no próprio quarto, literalmente um ser prosaico. Da uma visão geral de personagens como tia avo, tio mulherengo, trabalhadores da casa, crentes da igreja que sua família frequentava.  Mostra a influencia por trás de seu gosto literário. 

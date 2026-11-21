@@ -40,9 +40,24 @@
               "icon": "lucide-layout-dashboard",
               "title": "mapa mental"
             }
+          },
+          {
+            "id": "a66a77298f9f2324",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "LEITURAS/CAR GUSTAV JUNG.md",
+                "bFile": "LEITURAS/CAR GUSTAV JUNG.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: CAR GUSTAV JUNG  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,8 +256,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e1fb858daae6a713",
+  "active": "a66a77298f9f2324",
   "lastOpenFiles": [
+    "LEITURAS/CAR GUSTAV JUNG.md",
+    "conflict-files-obsidian-git.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/docs/Interação Humano Computador.md",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/docs",
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR",
     "Anima boat/IMGS/gatinho.png",
     "Anima boat/BrainStorm.canvas",
     "Anima boat/BRAINSTORM.md",
@@ -264,12 +286,8 @@
     "Sem título.canvas",
     "Anima boat/IMGS",
     "Base.base",
-    "Anima boat",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
-    "LEITURAS/CAR GUSTAV JUNG.md",
     "LEITURAS/MARCEL PROUST.md",
     "POLITICA.canvas",
-    "LEITURAS",
     "FACULDADE/Relatório – Projeto Looker.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
@@ -294,9 +312,6 @@
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/SQL.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Álgebra Relacional.md",
     "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/MEIOS FÍSICOS DE TRANSMISSÃO.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
-    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
-    "conflict-files-obsidian-git.md",
-    "DEV/AUTOMACAO/RPA.canvas"
+    "DEV/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md"
   ]
 }
