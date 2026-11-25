@@ -11,14 +11,17 @@
             "id": "35d44cabf254cd5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LEITURAS/CAR GUSTAV JUNG.md",
-                "mode": "source",
-                "source": false
+                "file": "concurso/Sem título.canvas",
+                "viewState": {
+                  "x": -5663.4936461396555,
+                  "y": -3053.343623171765,
+                  "zoom": -1.9999999999999998
+                }
               },
-              "icon": "lucide-file",
-              "title": "CAR GUSTAV JUNG"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -222,11 +225,14 @@
   },
   "active": "35d44cabf254cd5e",
   "lastOpenFiles": [
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
+    "concurso/Sem título.canvas",
     "LEITURAS/CAR GUSTAV JUNG.md",
+    "concurso/Sem título.md",
+    "concurso",
+    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/mapa mental.canvas",
     "LEITURAS/MARCEL PROUST.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/mapa mental.canvas",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/mapa mental.canvas",
     "dev/desenvolvimento_web/desenvolvimento_web.canvas",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/mapa mental.canvas",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/INTERAÇÃO HUMANO COMPUTADOR/Sem título.canvas",
@@ -243,7 +249,6 @@
     "Pasted image 20260930104044.png",
     "dev/AUTOMACAO/RPA.canvas",
     "dev/AUTOMACAO/ETL.canvas",
-    "dev/AUTOMACAO/WEBSCRAPING.canvas",
     "FACULDADE/Relatório – Projeto Looker.md",
     "FACULDADE",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ENGENHARIA DE SOFTWARE 1/docs/BACKLOG.md",
@@ -259,7 +264,6 @@
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Normalização.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/Modelagem - Relacionamento.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs/BANCO DE DADOS.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/BANCO DE DADOS 1/docs",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123609.jpg",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/Pasted image 20260929123329.jpg",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/ALGORITMOS 1/imgs/como-fazer-bolo-para-vender.webp",
@@ -273,7 +277,6 @@
     "Excalidraw/Drawing 2026-09-29 11.26.46.excalidraw.md",
     "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/CAMADAS DE APLICAÇÃO.md",
     "DAILY/task's.md",
-    "dev/AULAS - SEGUINDO GRADE ACADEMICA/REDES DE COMPUTADORES/docs/HISTORIA.md",
     "Pasted image 20250822203917.png",
     "Pasted image 20250822203727.png",
     "Pasted image 20250822203917-1.png"
